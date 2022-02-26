@@ -1,4 +1,4 @@
-# light-db
+# tiny-json-db
 
 A lightweight zero dependency json database.
 
@@ -7,7 +7,7 @@ A lightweight zero dependency json database.
 ### Create an instance:
 
 ```js
-const Database = require("light-db");
+const Database = require("tiny-json-db");
 const db = new Database("database-folder");
 ```
 
