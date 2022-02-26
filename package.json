@@ -1,0 +1,13 @@
+{
+	"name": "light-db",
+	"version": "0.1.0",
+	"description": "A lightweight zero dependency json database",
+	"main": "index.js",
+	"keywords": [
+		"database",
+		"json",
+		"json-db"
+	],
+	"author": "Theodore Kakagis",
+	"license": "MIT"
+}
