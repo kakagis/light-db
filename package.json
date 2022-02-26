@@ -1,5 +1,5 @@
 {
-	"name": "light-db",
+	"name": "tiny-json-db",
 	"version": "0.1.0",
 	"description": "A lightweight zero dependency json database",
 	"main": "index.js",
