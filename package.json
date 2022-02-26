@@ -9,5 +9,9 @@
 		"json-db"
 	],
 	"author": "Theodore Kakagis",
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CooldudeNo13026/light-db"
+	}
 }
